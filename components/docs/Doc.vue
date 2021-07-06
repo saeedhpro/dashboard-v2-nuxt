@@ -244,9 +244,7 @@
         </li>
         <li class="mb-3">
           If your routes don't exist yet, create your routes in the
-          <span class="font-medium">pages</span> directory and import them in
-          <span class="font-medium">routes.js</span>
-          file
+          <span class="font-medium">pages</span> directory
         </li>
         <li class="mb-3">
           Wrap the <span class="font-medium">layouts/default.vue</span> by the
