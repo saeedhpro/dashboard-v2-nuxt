@@ -196,7 +196,7 @@
           <a href="#" class="block pl-5 relative">
             <img
               alt="Dave Glad"
-              src="https://daveglad.vercel.app/_next/image?url=%2Fimages%2Fcv.jpg&w=128&q=75"
+              src="/images/1.jpg"
               class="h-10 mx-auto object-cover rounded-full w-10"
             />
           </a>
